@@ -29,9 +29,9 @@ The format is `time,text` where time is in the format `DD/MM/YYYY HH:MM:SS` and 
 
 VSCode is recommended as an IDE, launch scripts are provided.
 
-main.py - instantiates the user interface and the threads
-ui_main.py - the user interface (AUTOMATICALLY GENERATED DO NOT EDIT)
-thread_timer.py - the thread that handles the timer
+- main.py - instantiates the user interface and the threads
+- ui_main.py - the user interface (AUTOMATICALLY GENERATED DO NOT EDIT)
+- thread_timer.py - the thread that handles the timer
 
 ### Modify the user interface using qt designer
 
